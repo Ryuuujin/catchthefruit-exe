@@ -1,0 +1,11 @@
+game source         : https://github.com/fruit-productions/fruit-catcher
+game source 2       : https://github.com/jb3dahmen/CatchTheFruitComplete
+background asset    : https://id.pinterest.com/pin/686799011956496402/
+start button        : Canva.com
+restart button      : Canva.com
+quit button         : Canva.com
+help button         : Canva.com
+gameover.wav        : https://www.youtube.com/watch?v=XqwlHFFS_RY
+correct.wav         : https://www.youtube.com/watch?v=worclOeTALw
+explosion.wav       : https://www.youtube.com/watch?v=ZuocSHaG7rw
+backsound.mp3       : Canva.com
